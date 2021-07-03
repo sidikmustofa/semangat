@@ -1,1 +1,1 @@
-This repo is a collection of my favorite nursery rhymes.
+This repo is a collection of random images taken from unsplash
